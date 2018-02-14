@@ -8,4 +8,4 @@ Download this package: https://github.com/flo071/zoin_installer/releases/downloa
 
 Unpack it to any directory you want and run ./installer.sh from terminal and type in your sudo password when prompted.
 
-When istalled, launch "Zoin" from your programm launcher.
+When installed, launch "Zoin" from your program launcher.
