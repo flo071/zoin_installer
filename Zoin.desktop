@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=0.13.0.2
+Name=Zoin
+Exec=/usr/bin/zoin-qt
+Type=Application
+Icon=/usr/bin/zoin-logo.png
+Terminal=false
+Categories=Utility;Application;
