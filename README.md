@@ -4,7 +4,7 @@
 
 ### How to use?
 
-Download this package: https://github.com/flo071/zoin_installer/releases/download/1.0/Zoin_Installer_v1.zip
+Download this package: https://github.com/flo071/zoin_installer/releases/download/2.0/Zoin_Installer_v2.zip
 
 Unpack it to any directory you want and run ./installer.sh from terminal and type in your sudo password when prompted.
 
