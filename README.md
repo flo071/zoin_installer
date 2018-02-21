@@ -1,6 +1,6 @@
 # Zoin installer
 
-## Installer for Zoin desktop wallet on Ubuntu 17.10
+## Installer for Zoin desktop wallet on Ubuntu 17.04 and 17.10
 
 ### How to use?
 
