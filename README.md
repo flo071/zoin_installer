@@ -1,10 +1,10 @@
 # Zoin installer
 
-## Installer for Zoin desktop wallet on Ubuntu 17.10
+## Installer for Zoin desktop wallet on Ubuntu 17.04 and 17.10
 
 ### How to use?
 
-Download this package: https://github.com/flo071/zoin_installer/releases/download/2.0/Zoin_Installer_v2.zip
+Download this package: https://github.com/zoinofficial/zoin_installer/releases/download/0.13.1.5/Zoin_Installer_0.13.1.5.zip
 
 Unpack it to any directory you want and run ./installer.sh from terminal and type in your sudo password when prompted.
 
